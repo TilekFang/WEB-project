@@ -4,5 +4,6 @@ The website uses HTML, HR AND BOOTSTRAP.
 I tried to make an advertisement but I didn't have enough time, so there is only one. Also, the buttons are working, do not perform any action, since I wanted to link to another page.
 Also you can rate on the website at this link: https://tilekfang.github.io/WEB-project/
 ![Безымянный](https://user-images.githubusercontent.com/63999845/98115451-0c66e480-1ed1-11eb-9206-c8f065b7a9b9.png)
+![Безымянный3](https://user-images.githubusercontent.com/63999845/98115858-a890eb80-1ed1-11eb-81d5-dd5ab1d13ccf.png)
 
 
